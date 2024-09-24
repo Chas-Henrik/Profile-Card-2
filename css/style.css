@@ -11,7 +11,7 @@ html {
 body {
     width: 90vw;
     height: 100svh;
-    font-family: "Poppins", sans-serif;
+    font-family: "Sriracha", cursive;
     font-weight: 400;
     font-style: normal;
     margin: 0 5vw;
@@ -70,11 +70,10 @@ body {
 
 .card p {
     height: 20%;
-    color: #A69D9D;
+    color: #A79E9E;
     font-size: 1.1em;
     font-weight: 500;
     margin-top: 10px;
-
 }
 
 .card a {
